@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chart.js": "/js/chart.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/file-upload.js": "/js/file-upload.js",
+    "/js/hoverable-collapse.js": "/js/hoverable-collapse.js",
+    "/js/jquery.cookie.js": "/js/jquery.cookie.js",
+    "/js/off-canvas.js": "/js/off-canvas.js",
+    "/js/documentation.js": "/js/documentation.js",
+    "/js/tabs.js": "/js/tabs.js",
+    "/js/template.js": "/js/template.js",
+    "/js/todolist.js": "/js/todolist.js",
+    "/js/tooltips.js": "/js/tooltips.js",
+    "/css/style.css": "/css/style.css",
+    "/css/app.css": "/css/app.css"
+}
